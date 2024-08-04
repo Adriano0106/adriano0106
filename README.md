@@ -4,7 +4,7 @@
 
 <!-- [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://adriano0106.github.io/portfolio/) -->
 
-## Tecnologias que possuo conhecimento
+## Skills
 
 <div style="display: inline_block">
   <img style="margin: 2px;" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,15 +30,17 @@
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-### SOs que utilizo para desenvolvimento
+### SOs
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linkedin](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano0106&show_icons=true&theme=radical&count_private=true)
 
-Desenvolvedor Full Stack.
-Atualmente estudando: NextJs e NodeJs
+Full Stack Developer
+Bachelor of Computer Science
 
-### Projetos desenvolvidos:
-- [Portfólio](https://adriandrade.vercel.app)<br/>
+Currently studying: NextJs e NodeJs
+
+### My projects:
+- [Portfolio](https://adriandrade.vercel.app)<br/>
 - [Formula One Next](adriano-formulaonenext.netlify.app/)<br/>
