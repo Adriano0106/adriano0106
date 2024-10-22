@@ -34,8 +34,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linkedin](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano0106&show_icons=true&theme=radical&count_private=true)
-
 Full Stack Developer
 Bachelor of Computer Science
 
