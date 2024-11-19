@@ -41,4 +41,4 @@ Currently studying: NextJs e NodeJs
 
 ### My projects:
 - [Portfolio](https://adriandrade.vercel.app)<br/>
-- [Formula One Next](adriano-formulaonenext.netlify.app/)<br/>
+- [Formula One Next](https://adriano-formulaonenext.netlify.app/)<br/>
