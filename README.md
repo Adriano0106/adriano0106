@@ -39,7 +39,7 @@
 Full Stack Developer
 Bachelor of Computer Science
 
-Currently studying: NextJs e NodeJs
+Currently studying: Next/React
 
 ### My projects:
 - [Portfolio](https://adriandrade.vercel.app)<br/>
